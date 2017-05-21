@@ -1,1 +1,1 @@
-# api-skeleton
+# A simple API skeleton write in GO
